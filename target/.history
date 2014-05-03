@@ -1,0 +1,4 @@
+compile
+test
+test recfun.BalanceSuite
+scala
